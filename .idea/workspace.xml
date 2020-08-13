@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5584319-b1c8-44e8-a14e-9c2f5912cc7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java11Features.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/META-INF/Java11Features.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/BaseClass$NestedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/MethodWith2Args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/NestedBasedAccessControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/ReadStringAndWriteString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/UseOfVar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/string/BlankStringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/string/NumberOfLinesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/string/RepeatString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/string/StringTrimVsStripTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java11Features/edu/venk/string/StripString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/NestedBasedAccessControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/ReadStringAndWriteString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/UseOfVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/string/BlankStringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/string/NumberOfLinesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/string/RepeatString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/string/StringTrimVsStripTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/venk/string/StripString.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fupv4BtRSq8hgtqDKLdzwOYdTV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="E:\LearnJava\dependentJars\lib" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+  </component>
+  <component name="RunManager" selected="Application.ReadStringAndWriteString">
+    <configuration name="NestedBasedAccessControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.venk.NestedBasedAccessControl" />
+      <module name="Java11Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.venk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadStringAndWriteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.venk.ReadStringAndWriteString" />
+      <module name="Java11Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.venk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.venk.string.RepeatString" />
+      <module name="Java11Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.venk.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseOfVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.venk.UseOfVar" />
+      <module name="Java11Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.venk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTrimVsStripTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java11Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.venk.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.venk.string" />
+      <option name="MAIN_CLASS_NAME" value="edu.venk.string.StringTrimVsStripTestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NestedBasedAccessControl" />
+      <item itemvalue="Application.ReadStringAndWriteString" />
+      <item itemvalue="Application.RepeatString" />
+      <item itemvalue="Application.UseOfVar" />
+      <item itemvalue="JUnit.StringTrimVsStripTestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadStringAndWriteString" />
+        <item itemvalue="Application.NestedBasedAccessControl" />
+        <item itemvalue="Application.UseOfVar" />
+        <item itemvalue="Application.RepeatString" />
+        <item itemvalue="JUnit.StringTrimVsStripTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5584319-b1c8-44e8-a14e-9c2f5912cc7e" name="Default Changelist" comment="" />
+      <created>1597078058586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597078058586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="83" key="#xdebugger.evaluate" timestamp="1597257466850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="686" y="83" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1597257466850" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1597259076874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597259076874" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1597259076876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597259076876" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1597259076875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597259076875" />
+    <state x="404" y="94" width="570" height="524" key="StructurePopup" timestamp="1597222823484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="94" width="570" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1597222823484" />
+    <state x="387" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597160052762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1597160052762" />
+    <state x="389" y="0" width="587" height="728" key="find.popup" timestamp="1597212682639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" width="587" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597212682639" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597208597082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597208597082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/AdoptOpenJDK/jdk-11.0.8.10-hotspot/lib/src.zip!/java.base/java/lang/Character.java</url>
+          <line>10185</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
