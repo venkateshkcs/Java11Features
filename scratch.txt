@@ -1,0 +1,21 @@
+Java 11 features:
+
+Running Java File with single command
+-> only java file.java is enough to run
+
+New utility methods in String class
+-> lines(), strip(), stripLeading(), stripTrailing(), repeat(n), isBlank(),
+
+Local-Variable Syntax for Lambda Parameters
+-> var declaration inferred from RHS or functional interface
+
+Nested Based Access Control
+-> get inner class methods in reflection using baseClass.getClass().getNestHost(), getNestMembers() or
+isNestmateOf()
+
+JEP 321: HTTP Client
+
+
+Reading/Writing Strings to and from the Files
+-> Files.readString() and Files.writeString()
+JEP 328: Flight Recorder
